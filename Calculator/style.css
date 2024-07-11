@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     width: 100%;
+    background: linear-gradient(#a2b054, #3ac8cf);
 }
 
 .button {
